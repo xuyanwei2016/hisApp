@@ -1,0 +1,1 @@
+<view class="content"><web-view webview-styles="{{webviewStyles}}" src="http://test16.zhongdianyun.com:8084/h5/#/"></web-view></view>
